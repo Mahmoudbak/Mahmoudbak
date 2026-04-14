@@ -73,12 +73,12 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-S-hassan&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoud-S-hassan&theme=tokyonight"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-S-hassan&theme=tokyonight"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-S-hassan&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-S-hassan&theme=tokyonight" />
-  <img height="180em"  src="https://github-contributor-stats.vercel.app/api?username=mahmoud-S-hassan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-Bakr&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud-Bakr&theme=tokyonight"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmoud-Bakr&theme=tokyonight"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahmoud-Bakr&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahmoud-Bakr&theme=tokyonight" />
+  <img height="180em"  src="https://github-contributor-stats.vercel.app/api?username=Mahmoud-Bakr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 
