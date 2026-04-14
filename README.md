@@ -1,6 +1,6 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/753b2aec-0246-40f9-ae64-e9183a16436c" /><!-- Profile README -->
 
-<h1 align="center">👋 Hey, I'm Mahmoud Salah</h1>
+<h1 align="center">👋 Hey, I'm Mahmoud Bakr</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=650&lines=Aspiring+.NET+Backend+Developer;C%23%2C+Web+APIs%2C+SQL+%26+Clean+Architecture;Exploring+Docker+%26+Scalable+Systems;Always+Learning+%26+Improving" alt="Typing SVG" />
@@ -30,15 +30,15 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/mahmoud-s-hassan" target="_blank">
+  <a href="https://www.linkedin.com/in/mahmoud-bakr-" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
-  <a href="mailto:mahmoud.s.hassan7@gmail.com">
+  <a href="mailto:bakrhooda748@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
-  <a href="https://github.com/mahmoud-S-hassan" target="_blank">
+  <a href="https://github.com/Mahmoudbak" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
